@@ -1,0 +1,11 @@
+body {
+  background-color: yellow;
+}
+
+.underlined_heading {
+  text-decoration: underline;
+}
+
+.italy {
+  font-style: italic;
+}
